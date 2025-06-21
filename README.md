@@ -7,8 +7,8 @@ This repository contains code and data for the paper titled "On the effectivenes
 This repository is organized into three main directories:
 
 -   `data/`: Contains the three benchmark datasets used for our experiments (ArSAS, ASND, and ArSarcasm).
--   `gemma/`: Contains scripts and materials related to fine-tuning the open-source Gemma model (`gemma-3-27b-it`).
--   `openai_gpt4o_mini/`: Contains scripts and materials related to fine-tuning the GPT-4o mini model via the OpenAI API.
+-   `gemma/`: Contains code and data related to fine-tuning the open-source Gemma model (`gemma-3-27b-it`).
+-   `openai_gpt4o_mini/`: Contains code and data related to fine-tuning the GPT-4o mini model via the OpenAI API.
 
 ## Citation
 
