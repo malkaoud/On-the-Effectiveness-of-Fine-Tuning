@@ -34,7 +34,7 @@ Elmadany, A., Mubarak, H., & Magdy, W. (2018). ArSAS: An Arabic Speech-Act and S
 }
 ```
 
-## Note on Data Access Framework
+## Note on Data Access
 
 For our project, the data was sourced via the **LLMeBench framework**. We also recommend citing their work.
 
